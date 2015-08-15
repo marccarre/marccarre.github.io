@@ -1,0 +1,31 @@
+---
+layout: post
+status: publish
+published: true
+title: D&eacute;briefing 2008-2009
+author:
+  display_name: zhong
+  login: Zh0nG
+  email: zh0nggu0.1337@gmail.com
+  url: http://www.zh0ng.net
+author_login: Zh0nG
+author_email: zh0nggu0.1337@gmail.com
+author_url: http://www.zh0ng.net
+wordpress_id: 64
+wordpress_url: http://www.zh0ng.net/?p=64
+date: '2009-08-16 07:33:13 +0100'
+date_gmt: '2009-08-15 23:33:13 +0100'
+categories:
+- Une ann&eacute;e en Chine !
+tags: []
+comments: []
+---
+<p>Bon alors "vouala" un petit moment que je n'avais donn&eacute; aucune nouvelle via ce blog qui tombait un peu &agrave; l'abandon... donc pour rapidement mettre tout le monde &agrave; jour :<&#47;p></p>
+<p>- La 4e ann&eacute;e &agrave; l'INSA de Lyon, D&eacute;partement Informatique, s'est bien d&eacute;roul&eacute;e ... et encore plus vite que pr&eacute;vu : un bon rythme mais pas si horrible que les rumeurs et toutes les activit&eacute;s dont j'avais d&eacute;j&agrave; parl&eacute; pr&eacute;c&eacute;demment pour faire passer le temps encore plus vite !<&#47;p></p>
+<p>- Les dossiers qu'H&eacute;l&egrave;ne et moi avons fait pour partir &eacute;tudier un an en Chine ont &eacute;t&eacute; accept&eacute;s ! Nous passerons donc notre derni&egrave;re ann&eacute;e d'&eacute;cole &agrave; <em>Shanghai JiaoTong University<&#47;em> (上海交通大学)<&#47;p></p>
+<p>- Apr&egrave;s avoir rendu mon appartement et avoir dit au revoir &agrave; l'INSA de Lyon, nous sommes tous les deux partis faire nos stages &agrave; Paris (encore une fois pour moi !).<&#47;p></p>
+<p><a href="http:&#47;&#47;www.zh0ng.net&#47;zh0ng&#47;wp-content&#47;uploads&#47;2009&#47;09&#47;2009-05-09_dernier_jour_lyon.jpg"><img class="aligncenter" style="margin-left: 0px; margin-top: 5px; margin-right: 0px; margin-bottom: 5px; border: 3px solid #6699CC;" title="2009-05-09 Dernier jour &agrave; Lyon - INSA de Lyon - D&eacute;part' Informatique" src="http:&#47;&#47;www.zh0ng.net&#47;zh0ng&#47;wp-content&#47;uploads&#47;2009&#47;09&#47;2009-05-09_dernier_jour_lyon_small.jpg" alt="2009-05-09 Dernier jour &agrave; Lyon - INSA de Lyon - D&eacute;part' Informatique" width="450" height="140" &#47;><&#47;a><&#47;p></p>
+<p>H&eacute;l&egrave;ne a donc "tout donn&eacute;" chez Cartier Joallerie, en gestion de projets et achats pour les accessoires... et moi chez Pricing Partners, un &eacute;diteur de logiciels qui met &agrave; disposition de ses clients des mod&egrave;les math&eacute;matiques pour calculer les caract&eacute;ristiques des produits financiers qui sont sur les march&eacute;s, o&ugrave; j'ai travaill&eacute; sur une grille de calcul, c'est-&agrave;-dire plus ou moins la mise en commun de la puissance de nombreux ordinateurs pour r&eacute;aliser un travail commun.<&#47;p></p>
+<p><a href="http:&#47;&#47;www.zh0ng.net&#47;zh0ng&#47;wp-content&#47;uploads&#47;2009&#47;09&#47;2009-05-30_paris_la_cite.jpg"><img style="margin-left: 0px; margin-top: 5px; margin-right: 15px; margin-bottom: 5px; border: 3px solid #6699CC;" title="2009-05-30 Paris vue de La Cit&eacute;" src="http:&#47;&#47;www.zh0ng.net&#47;zh0ng&#47;wp-content&#47;uploads&#47;2009&#47;09&#47;2009-05-30_paris_la_cite_small.jpg" alt="2009-05-30 Paris vue de La Cit&eacute;" width="450" height="187" &#47;><&#47;a><a href="http:&#47;&#47;www.zh0ng.net&#47;zh0ng&#47;wp-content&#47;uploads&#47;2009&#47;09&#47;2009-05-30_paris_tour_eiffel.jpg"><img style="margin-left: 0px; margin-top: 5px; margin-right: 15px; margin-bottom: 5px; border: 3px solid #6699CC;" title="2009-05-30 Paris - Tour Eiffel de nuit" src="http:&#47;&#47;www.zh0ng.net&#47;zh0ng&#47;wp-content&#47;uploads&#47;2009&#47;09&#47;2009-05-30_paris_tour_eiffel_small.jpg" alt="2009-05-30 Paris - Tour Eiffel de nuit" height="250" &#47;><&#47;a><a href="http:&#47;&#47;www.zh0ng.net&#47;zh0ng&#47;wp-content&#47;uploads&#47;2009&#47;09&#47;2009-07-25_disney_chateau.jpg"><img style="margin-left: 0px; margin-top: 5px; margin-right: 15px; margin-bottom: 5px; border: 3px solid #6699CC;" title="2009-07-25 Disneyland Paris - Le Chateau" src="http:&#47;&#47;www.zh0ng.net&#47;zh0ng&#47;wp-content&#47;uploads&#47;2009&#47;09&#47;2009-07-25_disney_chateau_small.jpg" alt="2009-07-25 Disneyland Paris - Le Chateau" width="170" height="250" &#47;><&#47;a><&#47;p></p>
+<p>- On a donc pass&eacute; trois mois &agrave; Paris, install&eacute;s dans le 19e, &agrave; travailler, &agrave; visiter, &agrave; bouger un peu dans d'autres villes, et apr&egrave;s un bonjour &agrave; Mickey et ses amis, suivi d'un au revoir &agrave; nos familles, c'est le 27 ao&ucirc;t que nous quitterons la France pour s'installer dans le "Pays du Milieu" pour revivre l'aventure chinoise comme il y a trois ans, mais en plus grand !<&#47;p></p>
+<p>A suivre...<&#47;p></p>
