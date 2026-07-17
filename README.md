@@ -26,6 +26,6 @@ URL: [https://www.marccarre.com](https://www.marccarre.com) / [https://marccarre
   ```console
   $ bundle install
   $ bundle exec jekyll -v
-  jekyll 3.9.5
+  jekyll 3.9.0
   $ bundle exec jekyll serve --config=_config.yml,_config_cit.yml
   ```
