@@ -15,3 +15,7 @@ gem "webrick", "~> 1.8"
 # - https://nvd.nist.gov/vuln/detail/CVE-2026-54297
 # - https://github.com/marccarre/marccarre.github.io/security/dependabot/40
 gem "faraday", ">= 2.14.3"
+# See also:
+# - https://nvd.nist.gov/vuln/detail/CVE-2026-54904
+# - https://github.com/marccarre/marccarre.github.io/security/dependabot/38
+gem "concurrent-ruby", ">= 1.3.7"
