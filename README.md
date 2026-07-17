@@ -1,10 +1,12 @@
-marccarre.com / marccarre.github.io
+# marccarre.com / marccarre.github.io
+
 ===================================
 
 [![Build Status](https://travis-ci.org/marccarre/marccarre.github.io.svg?branch=master)](https://travis-ci.org/marccarre/marccarre.github.io)
 
 Personal website:
-* built with Jekyll (`bundle exec jekyll serve --config=_config.yml,_config_cit.yml` to run locally)
+
+* built with Jekyll
 * no Jekyll plugin
 * responsive design based on Boostrap
 * gracefully degrades if Javascript and fonts are disabled
@@ -18,8 +20,9 @@ URL: [https://www.marccarre.com](https://www.marccarre.com) / [https://marccarre
 
 ## Development
 
-- [Install `ruby` and `jekyll`.](https://jekyllrb.com/docs/installation/macos/)
-- Run:
+* [Install `ruby` and `jekyll`.](https://jekyllrb.com/docs/installation/macos/)
+* Run:
+
   ```console
   $ bundle install
   $ bundle exec jekyll -v
